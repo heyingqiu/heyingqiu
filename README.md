@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @heyingqiu
-- 👀 I’m interested in Japanese animations. 
-- 🌱 I’m currently learning Optical frequency comb.
+- 👋 Hi, I’m @heyingqiu. Please just call me Cho. 
+- 👀 I’m interested in everything. 
+- 🌱 I’m currently working in a lab about optical frequency comb.
 - 📫 How to reach me Email: heyingqiu@hotmail.com
 
 <!---
