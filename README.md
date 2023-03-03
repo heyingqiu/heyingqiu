@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyingqiu. Please just call me Cho. 
 - 👀 I’m interested in everything. 
-- 🌱 I’m currently working in a lab about optical frequency comb.
+- 🌱 I’m currently exchanging at UEC. 
 - 📫 How to reach me Email: he.yingqiu@hotmail.com
 
 <!---
