@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @heyingqiu. Please just call me Cho. 
+- 👋 Hi, I’m Yingqiu. 
 - 👀 I’m interested in everything. 
-- 🌱 I’m currently exchanging at UEC. 
 - 📫 How to reach me Email: he.yingqiu@hotmail.com
 
 <!---
