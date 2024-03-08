@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yingqiu. 
-- 👀 I’m interested in everything. 
-- 📫 How to reach me Email: he.yingqiu@hotmail.com
+- 👀 Welcome to here!
+- 📫 Email: he.yingqiu@hotmail.com
 
 <!---
 heyingqiu/heyingqiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
